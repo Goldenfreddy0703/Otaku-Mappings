@@ -31,10 +31,12 @@ The Otaku Mappings database provides the following mappings for each entry:
 - **themoviedb_id**: The Movie Database (TMDb) ID
 - **imdb_id**: IMDb ID
 - **trakt_id**: Trakt ID
+- **mal_title**: Main Title from MyAnimeList
 - **mal_picture**: Image data from MyAnimeList
 - **thetvdb_season**: Season data from TheTVDB
 - **thetvdb_part**: Part information from TheTVDB
-- **duration_result**: Duration per episode
+- **duration**: Duration per episode
+- **status**: Status per anime
 - **anime_media_type**: Media type specific to anime
 - **global_media_type**: Universal media type
 - **anime_media_episodes**: Episode count specific to anime
@@ -42,4 +44,4 @@ The Otaku Mappings database provides the following mappings for each entry:
 
 ## Note on Data Accuracy
 
-While we strive for accuracy, some data might be outdated or inaccurate due to discrepancies across sources. If you come across any inaccuracies, please [create an issue](https://github.com/yourusername/OtakuMappings/issues) on GitHub so we can investigate and correct it. Your feedback helps improve the project!
+While we strive for accuracy, some data might be outdated or inaccurate due to discrepancies across sources. If you come across any inaccuracies, please [create an issue](https://github.com/Goldenfreddy0703/Otaku-Mappings/issues) on GitHub so we can investigate and correct it. Your feedback helps improve the project!
