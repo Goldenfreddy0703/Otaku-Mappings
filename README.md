@@ -27,6 +27,7 @@ The Otaku Mappings database provides the following mappings for each entry:
 - **anilist_id**: AniList ID
 - **kitsu_id**: Kitsu ID
 - **anidb_id**: AniDB ID
+- **simkl_id**: Simkl ID
 - **thetvdb_id**: TheTVDB ID
 - **themoviedb_id**: The Movie Database (TMDb) ID
 - **imdb_id**: IMDb ID
