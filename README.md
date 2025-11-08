@@ -37,6 +37,7 @@ The Otaku Mappings database provides the following mappings for each entry:
 - **thetvdb_season**: Season data from TheTVDB
 - **thetvdb_part**: Part information from TheTVDB
 - **duration**: Duration per episode
+- **score**: Median Score from MyAnimeList
 - **status**: Status per anime
 - **anime_media_type**: Media type specific to anime
 - **global_media_type**: Universal media type
